@@ -43,3 +43,5 @@ The robot participates in sumo-style competitions where the goals are:
 - Lack of authentication can allow unauthorized control  
 - Signal jamming could disrupt communication during competition  
 - Physical access may allow tampering between rounds  
+
+‼️Note: This project is shared for career-related purposes. If used for academic coursework, please follow your institution’s academic integrity policy.
